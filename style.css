@@ -215,7 +215,7 @@ footer{
         border-bottom: 1px solid var(--color-grey);
       }
       .location {
-        margin-top: 10px;
+        margin-top: 25px;
         margin-left: 10px;
         width: 320px;
         height: 86px;
@@ -257,7 +257,7 @@ footer{
       }
       .profile img{
         position: absolute;
-        top:-40px
+        top:-34px
       }
     body{
         width: 100%;
